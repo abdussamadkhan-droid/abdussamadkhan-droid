@@ -56,7 +56,7 @@
 
 # 👨‍💻 ABOUT ME
 
-### Hello, I'm P. Abdus Samad Khan 👋
+### Hello, I'm Pattan Abdus Samad Khan 👋✨
 
 I am a **Computer Science and Engineering graduate** with a strong interest in **Artificial Intelligence, Python development, Generative AI, LLM-based applications, APIs, SQL, and software development**.
 
